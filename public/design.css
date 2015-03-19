@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(214, 235, 255);
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 15px;
+}
+
+h2 {
+    font-size: 15px;
+    
+}
+
+h1{
+    font-size: 35px;
+    
+}
+
+button {
+    font-family: Verdana, Geneva, sans-serif;
+}
